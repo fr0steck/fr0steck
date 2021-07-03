@@ -15,7 +15,7 @@ Hi there, I'm Mateusz Mrózek <img src="https://media.giphy.com/media/hvRJCLFzca
 
 [comment]: <> (####📫 How to reach me:)
 
-<img align="right" src="https://raw.githubusercontent.com/nazkord/nazkord/master/assets/programmer.png" height="250"  alt="programmer image"/>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmgcJgP8-9bBWn69b8uFQWKIBIDgvORuiTKH_Ka-wezFPhsOZ5GmosZt8i7nuzqGJUII&usqp=CAU" height="250"  alt="programmer image"/>
 
 - 🔭 I’m currently searching for a new opportunity in IT industry
 - 🎓 I’m studying **Computer Science on UJ**
