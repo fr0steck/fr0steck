@@ -8,8 +8,6 @@ Hi there, I'm Mateusz Mrózek <img src="https://media.giphy.com/media/hvRJCLFzca
     </a>
     <a href="mailto:matimrozek@gmail.com"> 
         <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> 
-    </a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=fr0steck.fr0steck"/>
 </p>
 
 
@@ -34,14 +32,3 @@ Hi there, I'm Mateusz Mrózek <img src="https://media.giphy.com/media/hvRJCLFzca
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-
-📈 GitHub Stats
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fr0steck&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr0steck&layout=compact&theme=dark" />
-</a>
